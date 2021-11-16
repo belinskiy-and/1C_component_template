@@ -1,0 +1,1 @@
+# 1C_component_template
